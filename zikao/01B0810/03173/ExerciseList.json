@@ -1,0 +1,19 @@
+{
+    "Exercise": [
+        {
+            "name": "2015年10月",
+            "code": "201510",
+            "type": "真题"
+        },
+        {
+            "name": "全真联系",
+            "code": "Simulator01",
+            "type": "模拟练习"
+        },
+        {
+            "name": "第一章",
+            "code": "Chapter01",
+            "type": "单元练习"
+        }
+    ]
+}
